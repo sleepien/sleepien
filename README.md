@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whylone1y
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning react, redux, tailwind, express, mongoDb, next js
-- 💞️ I’m looking for ramote job
+- 💞️ I’m looking for remote job
 - 📫 How to reach me @whyloneIy - telegram
