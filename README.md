@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @whylone1y
+- 👋 Hi, I’m @sleepien
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning react, redux, tailwind, express, mongoDb, next js
-- 💞️ I’m looking for remote job
-- 📫 How to reach me @whyloneIy - telegram
+- 💞️ I’m looking for job
+- 📫 How to reach me @sleepienn - telegram
